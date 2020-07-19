@@ -1,0 +1,1 @@
+cmd_/home/pushpinderpalsingh/Desktop/linux_dev/modules/hello/hello.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/pushpinderpalsingh/Desktop/linux_dev/modules/hello/hello.ko /home/pushpinderpalsingh/Desktop/linux_dev/modules/hello/hello.o /home/pushpinderpalsingh/Desktop/linux_dev/modules/hello/hello.mod.o;  true

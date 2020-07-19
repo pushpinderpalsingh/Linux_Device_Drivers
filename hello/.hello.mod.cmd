@@ -1,0 +1,1 @@
+cmd_/home/pushpinderpalsingh/Desktop/linux_dev/modules/hello/hello.mod := { echo  /home/pushpinderpalsingh/Desktop/linux_dev/modules/hello/hello.o; echo; } > /home/pushpinderpalsingh/Desktop/linux_dev/modules/hello/hello.mod
